@@ -4,7 +4,7 @@ title: The Slizzers
 author: Jerome Bixby
 editor: Jackson Babcock
 rights: public domiain
-source: "Hansberry, Lorraine, and Robert Nemiroff. A Raisin in the Sun. Rep Rei edition. New York: Vintage, 2004. Print."
+source: 
 
 ---
 *****
