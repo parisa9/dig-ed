@@ -1,5 +1,12 @@
-*The Slizzers*
-by JEROME BIXBY
+---
+layout: Narrative 
+title: The Slizzers
+author: Jerome Bixby
+editor: Jackson Babcock
+rights: public domiain
+source: "Hansberry, Lorraine, and Robert Nemiroff. A Raisin in the Sun. Rep Rei edition. New York: Vintage, 2004. Print."
+
+---
 *****
 
 They're all around us. I'll call them the _slizzers_, because they
