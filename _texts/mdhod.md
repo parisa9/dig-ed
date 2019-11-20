@@ -1,7 +1,14 @@
-
+---
+layout: narrative
+title: "Doom of the House of Duryea"
+author: earl peirce jr
+editor: paul owen
+rights: public domain 
+source: gutinburg
+publication-date: 1936
+---
 Doom of the House of Duryea
 
-By EARL PEIRCE, JR.
 
 
 Arthur Duryea, a young, handsome man, came to meet his father for the
