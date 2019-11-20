@@ -1,10 +1,10 @@
 ---
 layout: narrative
-title: All You Zombies
+title: "All You Zombies"
 author: Robert A. Heinlein
 editor: Dylan Ridge-Storer
 rights: public domain
-source: github
+source: Project Gutenberg
 publication-date: 1959
 ---
 **2217 Time Zone V (EST) 7 Nov. 1970--NTC-- "Pop's Place":** I was polishing a brandy snifter when the Unmarried Mother came in. I noted the time---10:17 P. M. zone five, or eastern time, November 7th, 1970. Temporal agents always notice time and date; we must.
