@@ -7,7 +7,7 @@ rights: public domain
 source: Gutenburg
 publication-date: 1936
 ---
-Doom of the House of Duryea
+
 
 
 
