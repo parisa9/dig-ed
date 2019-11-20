@@ -1,14 +1,11 @@
 ---
-layout: Narrative 
-title: The Slizzers
+layout: narrative 
+title: "The Slizzers"
 author: Jerome Bixby
 editor: Jackson Babcock
 rights: public domiain
 source: Project Gutenberg
 publication date: 1953
-re-publication date: 2010
-
-
 ---
 *****
 
