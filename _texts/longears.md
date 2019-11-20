@@ -1,3 +1,12 @@
+---
+layout: narrative
+title: "Rabbits Have Long Ears"
+author: Lawrence F. Willard
+editor: Parsisa Mirjalili
+rights: Public Domain
+source: Project Gutenburg
+publication-date: August 1958
+---
 Rabbits Have LONG Ears
 
 BY LAWRENCE F. WILLARD
