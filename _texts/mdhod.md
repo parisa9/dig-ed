@@ -1,10 +1,10 @@
 ---
 layout: narrative
 title: "Doom of the House of Duryea"
-author: earl peirce jr
-editor: paul owen
+author: Earl Peirce JR
+editor: Paul Owen
 rights: public domain 
-source: gutinburg
+source: Gutenburg
 publication-date: 1936
 ---
 Doom of the House of Duryea
