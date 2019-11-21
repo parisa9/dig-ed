@@ -134,9 +134,15 @@ Somewhere, a million miles beyond the sun, the ship accelerated rapidly. The Com
 The Commander nodded and Montresig burped and withdrew.
 
 Works Cited 
+
 History.com Editors. “The 1950s.” History.com, A&E Television Networks, 30 May 2012, www.history.com/topics/the-1950s/1950s-video.
+
 History.com Editors. “The Space Race.” History.com, A&E Television Networks, 22 Feb. 2010, www.history.com/topics/cold-war/space-race.
+
 Pearson, Steve. “What Happened in 1958 Important News and Events, Key Technology and Popular Culture.” The People History, The People History, www.thepeoplehistory.com/1958.html.
+
 Purdy, Lew. “1958 Events & Facts.” Baby Boomers, News Your Way Baby Boomers, 20 Nov. 2016, www.babyboomers.com/1958.
+
 Sterling, Bruce. “Science Fiction.” Encyclopædia Britannica, Encyclopædia Britannica, Inc., 11 Sept. 2019, www.britannica.com/art/science-fiction.
+
 Wolfe, Gary K. “Why the 1950s?” American Science Fiction, Classic Novels of the 1950's, sciencefiction.loa.org/why.php.
